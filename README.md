@@ -127,4 +127,4 @@ src/main/java/com/nicheaim/keycloak/fhir/
 
 ## License
 
-Proprietaryw License - see LICENSE file for details
+MIT License - see LICENSE file for details

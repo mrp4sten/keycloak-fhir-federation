@@ -1,4 +1,4 @@
-package com.nicheaim.keycloak.fhir.service;
+package com.nicheaim.keycloak.fhir.provider;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
@@ -19,7 +19,6 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import com.nicheaim.keycloak.fhir.model.FhirPatientRep;
-import com.nicheaim.keycloak.fhir.provider.FhirPatientMapper;
 
 /**
  * Unit tests for {@link FhirPatientMapper}.

@@ -7,7 +7,7 @@
 # Version: 1.0.0
 # Created: 2025-10-01
 #
-# Usage: ./setup-env.sh
+# Usage: source ./setup-env.sh
 # Notes: Run this script before starting the application to ensure all environment variables are set.
 #
 
